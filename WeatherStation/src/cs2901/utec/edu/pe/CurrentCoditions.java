@@ -1,7 +1,12 @@
 package cs2901.utec.edu.pe;
 import cs2901.utec.edu.pe.WeatherData;
 
-public abstract class CurrentCoditions implements Observer, DisplayElement {
+
+
+public class CurrentCoditions implements Observer, DisplayElement {
+    public CurrentCoditions(){
+
+    }
     WeatherData weatherData = new WeatherData();
 
     @Override

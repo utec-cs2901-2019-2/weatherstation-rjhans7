@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="612dc6a9-f501-421e-8271-d703b59b032a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/weatherstation-rjhans7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/ForecastDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/ThirdPartyDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="612dc6a9-f501-421e-8271-d703b59b032a" name="Default" comment="New classes added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/CurrentCoditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/CurrentCoditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/Observer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/StatisticsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/ThirdPartyDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs2901/utec/edu/pe/ThirdPartyDisplay.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,8 +81,16 @@
       <option name="presentableId" value="Default" />
       <updated>1570634806728</updated>
       <workItem from="1570634814503" duration="831000" />
-      <workItem from="1570641303174" duration="1759000" />
+      <workItem from="1570641303174" duration="2604000" />
     </task>
+    <task id="LOCAL-00001" summary="New classes added">
+      <created>1570643216062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570643216062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New classes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New classes added" />
   </component>
 </project>
